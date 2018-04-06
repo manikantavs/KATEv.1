@@ -32,7 +32,7 @@ SECRET_KEY = '&x$s*@77v)u7xke_(*%tt1qse7)wjh3q4y#&=d4wh5ytt7cz5q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['portcon.k2advisors.com','localhost']
+ALLOWED_HOSTS = ['portcon.k2advisors.com','localhost', '127.0.0.1:8000', '127.0.0.1']
 
 
 # Application definition
